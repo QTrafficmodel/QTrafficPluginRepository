@@ -11,7 +11,7 @@
         <file_name>QTraffic.zip</file_name>
         <icon></icon>
         <author_name><![CDATA[University of Coimbra (http://www.uc.pt/) – Luigi Pirelli, Oxana Tchepel, Daniela Dias]]></author_name>
-        <download_url>https://github.com/QTrafficmodel/QTrafficPluginRepository/blob/master/QTraffic.zip</download_url>
+        <download_url>https://raw.githubusercontent.com/QTrafficmodel/QTrafficPluginRepository/master/QTraffic.zip</download_url>
         <uploaded_by><![CDATA[Luigi Pirelli]]></uploaded_by>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
