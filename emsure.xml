@@ -7,16 +7,16 @@
         <version>0.7.4</version>
         <qgis_minimum_version>2.0</qgis_minimum_version>
         <qgis_maximum_version>3.0.0</qgis_maximum_version>
-        <homepage><![CDATA[https://github.com/luipir/QTraffic]]></homepage>
+        <homepage><![CDATA[https://github.com/QTrafficmodel/QTraffic]]></homepage>
         <file_name>QTraffic.zip</file_name>
         <icon></icon>
         <author_name><![CDATA[University of Coimbra (http://www.uc.pt/) – Luigi Pirelli, Oxana Tchepel, Daniela Dias]]></author_name>
-        <download_url>https://dl.dropboxusercontent.com/u/12837459/qgis_plugins/QTraffic.zip</download_url>
+        <download_url>https://github.com/QTrafficmodel/QTrafficPluginRepository/blob/master/QTraffic.zip</download_url>
         <uploaded_by><![CDATA[Luigi Pirelli]]></uploaded_by>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/luipir/QTraffic/issues]]></tracker>
-        <repository><![CDATA[https://github.com/luipir/QTraffic]]></repository>
+        <tracker><![CDATA[https://github.com/QTrafficmodel/QTraffic/issues]]></tracker>
+        <repository><![CDATA[https://github.com/QTrafficmodel/QTraffic]]></repository>
         <tags><![CDATA[traffic, emission, road, modelling, energy, transport, urban, network analysis, routing]]></tags>
         <downloads>0</downloads>
         <average_vote>0</average_vote>
