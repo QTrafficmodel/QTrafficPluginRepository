@@ -1,10 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
 <plugins>
-  <pyqgis_plugin name="QTraffic" version="0.7.5">
+  <pyqgis_plugin name="QTraffic" version="0.7.6">
         <description><![CDATA[Traffic Emission and Energy Consumption Model for open-source QGIS]]></description>
         <about><![CDATA[QTraffic model is able to quantify traffic emission and energy consumption on the urban level. It has been developed based on the updated European methodology for emission factors and a novel technology for producing dynamic interactive data visualization. The emission and energy consumption model is implemented as a plugin for open-source QGIS and integrates D3.js library with the Python programming.]]></about>
-        <version>0.7.5</version>
+        <version>0.7.6</version>
         <qgis_minimum_version>2.0</qgis_minimum_version>
         <qgis_maximum_version>2.99.9</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/QTrafficmodel/QTraffic]]></homepage>
